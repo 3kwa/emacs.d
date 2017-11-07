@@ -1,3 +1,4 @@
+(ido-mode 1)
 (tool-bar-mode -1)
 (scroll-bar-mode -1)
 (load-theme 'desert t)
